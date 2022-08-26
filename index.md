@@ -1,3 +1,10 @@
+# Sravya's First CS193 Homework
+
+### Why do I like CS193? _(That's a good question)
+1. We learn useful tools like **Github, the Terminal** and more.
+2. We meet only **once** a week.
+3. It's taught by **undergrads** who were in the same position as us once upon a time.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
