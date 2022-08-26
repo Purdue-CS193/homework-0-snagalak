@@ -1,9 +1,9 @@
 # Sravya's First CS193 Homework
 
 ### Why do I like CS193? _(That's a good question)_
-1. We learn useful tools like **Github, the Terminal** and more.
-2. We meet only **once** a week.
-3. It's taught by **undergrads** who were in the same position as us once upon a time.
+- We learn useful tools like **Github, the Terminal** and more.
+- We meet only **once** a week.
+- It's taught by **undergrads** who were in the same position as us once upon a time.
 
 ## Welcome to GitHub Pages
 
